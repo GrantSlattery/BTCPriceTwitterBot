@@ -1,5 +1,5 @@
 Grant Slattery 
-9/1/20
+9/2/20
 
 Using Python to display the current price of BTC in USD, GBP and EUR. The result is tweeted on a developer account using Tweepy.
 
